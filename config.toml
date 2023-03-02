@@ -5,4 +5,4 @@ baseURL = 'https://vowsir.tech/'
 languageCode = 'zh-cn'
 title = 'VowSir的个人博客'
 theme = 'stack'
-disqusShortname = "VowSirBlog"
+disqusShortname = "vowsirblog"
