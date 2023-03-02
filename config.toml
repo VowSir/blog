@@ -1,4 +1,7 @@
-baseURL = 'https://blog-one-henna.vercel.app/'
+
+#永久可用的域名 因为记忆比较困难换成自定义域名
+#baseURL = 'https://blog-one-henna.vercel.app/'
+baseURL = 'https://vowsir.tech/'
 languageCode = 'zh-cn'
 title = 'VowSir的个人博客'
 theme = 'stack'
